@@ -9,7 +9,11 @@ Use the *"Deploy to Bluemix"* button below, to deploy this app to Bluemix using 
 You can deploy your own instance to Bluemix.
 To do this, you can either use the _Deploy to Bluemix_ button for an automated deployment or follow the steps below to create and deploy your app manually.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibm-watson-iot/iota-starter-server.git)
+### Using the Deploy to Bluemix button.
+
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/dahukanna/deployToBluemix.git)
+
+### Manually deploying to Bluemix.
 
 1. Create a Bluemix Account.
 
@@ -33,8 +37,8 @@ To do this, you can either use the _Deploy to Bluemix_ button for an automated d
     memory: 128M
     instances: 1
     disk_quota: 50M
-    name: node-js-<random chars>
-    host: node-js-<random chars>
+    name: node-js-1234
+    host: node-js-1234
   ```
   The host you use will determinate your application URL initially, for example, `<host>.mybluemix.net`.
 

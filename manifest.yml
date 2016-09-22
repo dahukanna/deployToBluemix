@@ -3,5 +3,5 @@ applications:
   memory: 128M
   instances: 1
   disk_quota: 50M
-  name: node-js-<random chars>
-  host: node-js-<random chars>
+  name: node-js-1234
+  host: node-js-1234
