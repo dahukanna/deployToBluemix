@@ -4,4 +4,3 @@ applications:
   instances: 1
   disk_quota: 50M
   name: node-js-1234
-  host: node-js-1234
