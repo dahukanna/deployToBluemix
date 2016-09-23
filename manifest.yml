@@ -2,5 +2,7 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  disk_quota: 50M
+  domain: mybluemix.net
   name: node-js-1234
+# host: node-js-1234
+  disk_quota: 256M

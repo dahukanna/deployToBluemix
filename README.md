@@ -2,15 +2,12 @@
 
 The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.
 
-## Run the app on Bluemix
-Use the *"Deploy to Bluemix"* button below, to deploy this app to Bluemix using IBM DevOps
-
 ## Deploy the app on Bluemix
 You can deploy your own instance to Bluemix.
 To do this, you can either use the _Deploy to Bluemix_ button for an automated deployment or follow the steps below to create and deploy your app manually.
 
 ### Using the Deploy to Bluemix button.
-
+Use the *"Deploy to Bluemix"* button below, to deploy this app to Bluemix using IBM DevOps.
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/dahukanna/deployToBluemix.git)
 
 ### Manually deploying to Bluemix.
