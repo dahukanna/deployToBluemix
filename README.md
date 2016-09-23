@@ -8,6 +8,7 @@ To do this, you can either use the _Deploy to Bluemix_ button for an automated d
 
 ### Using the Deploy to Bluemix button.
 Use the *"Deploy to Bluemix"* button below, to deploy this app to Bluemix using IBM DevOps.
+
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/dahukanna/deployToBluemix.git)
 
 ### Manually deploying to Bluemix.
